@@ -1,16 +1,16 @@
 # 1. Create Components
 
-Root
--Header
-    -ShoppingList
-        -ShoppingList
-        -ShoppingListEdit
-        -Ingredient
-    -Recipe Book
-        -RecipeList
-        -RecipeItem
-        -RecipeDetail
-        -Recipe
+Root</br>
+-Header</br>
+&nbsp;-ShoppingList</br>
+&nbsp;&nbsp;-ShoppingList</br>
+&nbsp;&nbsp;-ShoppingListEdit</br>
+&nbsp;&nbsp;-Ingredient</br>
+&nbsp;-Recipe Book</br>
+&nbsp;&nbsp;-RecipeList</br>
+&nbsp;&nbsp;-RecipeItem</br>
+&nbsp;&nbsp;-RecipeDetail</br>
+&nbsp;&nbsp;-Recipe</br>
 
 ng g c header</br>
 ng g c recipes --spec false</br>
