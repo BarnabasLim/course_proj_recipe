@@ -1,5 +1,6 @@
 # 1. Create Components
 
+## Componenet Layout
 Root</br>
 -Header</br>
 &nbsp;-ShoppingList</br>
