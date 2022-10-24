@@ -1,3 +1,28 @@
+# 1. Create Components
+
+Root
+-Header
+    -ShoppingList
+        -ShoppingList
+        -ShoppingListEdit
+        -Ingredient
+    -Recipe Book
+        -RecipeList
+        -RecipeItem
+        -RecipeDetail
+        -Recipe
+
+ng g c header</br>
+ng g c recipes --spec false</br>
+ng g c recipes/recipe-list</br>
+ng g c recipes/recipe-detail</br>
+ng g c recipes/recipe-list/recipe-item</br>
+</br>
+ng g c shopping-list</br>
+ng g c shopping-list/shopping-edit</br>
+
+&lt;app-header&gt;&lt;/app-header&gt;
+
 # CourseProjRecipe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
