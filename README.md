@@ -24,6 +24,13 @@ ng g c shopping-list/shopping-edit</br>
 
 &lt;app-header&gt;&lt;/app-header&gt;
 
+# 2. Organise General Layout
+
+## Using bootstrap format
+[col-md-5 meaning](https://www.youtube.com/watch?v=cHAcSQyvBqQ)
+[Bootstrap grid system](https://getbootstrap.com/docs/4.0/layout/grid/)
+![Output of organised image](readme\src\images\general_layout_structure.PNG "Output of organised image")
+
 # CourseProjRecipe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
